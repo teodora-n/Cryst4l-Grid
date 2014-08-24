@@ -1,5 +1,5 @@
 <?php
-/**
+/**  
  * Plugin Name: Cryst4l Grid
  * Plugin URI: http://cryst4l.info
  * Description: CSS grid and shortcodes
